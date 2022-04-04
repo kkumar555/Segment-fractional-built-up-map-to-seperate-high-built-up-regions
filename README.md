@@ -1,4 +1,4 @@
-# Segment_fractional_built_map
+# Segment-fractional-built-up-map-to-seperate-high-built-up-regions
 
 Author: Krishna Kumar Perikamana / https://www.researchgate.net/profile/Krishna-Kumar-Perikamana / 03.2022
 
